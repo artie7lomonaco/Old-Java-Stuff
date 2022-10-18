@@ -1,0 +1,14 @@
+Research:
+Instance Methods require objects of the class to be created before 
+it can be called on, whereas Static Methods can be called without 
+creating an instance of its class. 
+
+The word static after an access modifier (e.g. private or public)
+when creating a class makes it a Static Method. Otherwise, it is an 
+Instance Method.
+
+Instance:
+public void myMethod() { }
+
+Static:
+public static void myMethod() { }
